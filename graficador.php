@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Graficador
  * Description: Generador d'imatges per xarxes socials (Portada + Resultats). Estil modern groc/negre.
- * Version: 1.1
+ * Version: 1.2
  * Author: Albert Noe Noe
  */
 
